@@ -19,3 +19,7 @@ This project includes the react ui as well as JSON-server for my mock backend.
 ### To build for production
 
 #### `npm run build`
+
+## The Final Look
+
+![finallook](docs/finallook.jpg)
