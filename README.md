@@ -23,3 +23,7 @@ This project includes the react ui as well as JSON-server for my mock backend.
 ## The Final Look
 
 ![finallook](docs/FinalLook.jpg)
+
+## The model
+
+![model](docs/Model.jpg)
