@@ -26,4 +26,4 @@ This project includes the react ui as well as JSON-server for my mock backend.
 
 ## The model
 
-![model](docs/Model.jpg)
+![model](docs/Model.png)
