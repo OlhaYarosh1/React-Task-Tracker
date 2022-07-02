@@ -8,13 +8,13 @@ This project includes the react ui as well as JSON-server for my mock backend.
 
 #### `npm install`
 
-### Run React dev server (http://localhost:3000)
-
-#### `npm start`
-
 ### Run the JSON server (http://localhost:5000)
 
 #### `npm run server http://localhost:5000`
+
+### Run React dev server (http://localhost:3000)
+
+#### `npm start`
 
 ### To build for production
 
